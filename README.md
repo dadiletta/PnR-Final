@@ -1,5 +1,5 @@
 # PnR-Final
-The final project for [Gilmour Academy's](http://www.gilmour.org) Programming and Robotics class. Your job is to design a self-driving script that will safely move your GoPiGo from one side of an obstacle course to another, without hitting an object or turning around and heading the wrong way.
+The old final project for [Gilmour Academy's](http://www.gilmour.org) Programming and Robotics class. Your job is to design a self-driving script that will safely move your GoPiGo from one side of an obstacle course to another, without hitting an object or turning around and heading the wrong way.
  
 The ideal solution will work quickly and will output detailed description of the robot's thinking to the SSH console. 
 
